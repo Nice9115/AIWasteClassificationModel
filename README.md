@@ -85,10 +85,5 @@ This ensures **fair, transparent, and sustainable AI solutions** that protect th
 
 ---
 
-👨‍💻 **Author:** *[Your Name]*  
-🕓 **Date:** October 2025  
-📬 **Contact:** *[Your Email or GitHub username]*
-
----
 
 > “AI can be the bridge between innovation and sustainability.” — UN Tech Envoy
